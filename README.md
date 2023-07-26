@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# A passionate Full-Stack Engineer. Committed to pushing boundaries in AI & Machine Learning applications.
+#### Passionate Full-Stack Engineer. Committed to pushing boundaries in AI & Machine Learning applications.
+
+- 🔭 I’m currently working on full-stack applications
+- 🌱 I’m currently learning DevOps 
+- 👯 I’m looking to collaborate on Nodejs, React, Python, Ruby on Rails
+- 💬 Ask me about any of the above technologies
+- 📫 How to reach me: https://www.linkedin.com/in/hashir-mohsineen-76b22115b
+  
+  
