@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on full-stack applications
 - 🌱 I’m currently learning DevOps 
-- 👯 I’m looking to collaborate on Nodejs, React, Python, Ruby on Rails
-- 💬 Ask me about any of the above technologies
-- 📫 How to reach me: https://www.linkedin.com/in/hashir-mohsineen-76b22115b
+- 👯 I’m looking to collaborate on Nodejs, React, Python, and Ruby on Rails
+- 💬 Ask me about anything from the above technologies
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/hashir-mohsineen-76b22115b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashir-mohsineen-76b22115b" height="30" width="40" /></a> <a href="hashir.mohsineen@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="hashir-mohsineen" height="30" width="40" /></a>
   
   
